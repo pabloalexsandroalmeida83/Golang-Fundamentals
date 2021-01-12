@@ -23,5 +23,4 @@ Contribuindo
     By:
 
 Autor   = ['Pablo Alexsandro de Almeida']  
-linkdin = 'https://www.linkedin.com/in/pablo-almeida-208a32163/'  
-Blog    = 'http://www.devops-sys.com.br'  
+linkdin = 'https://www.linkedin.com/in/pablo-almeida-208a32163/'  s
